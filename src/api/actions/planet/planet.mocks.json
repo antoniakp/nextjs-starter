@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Alderaan",
+    "climate": "temperate"
+  },
+  {
+    "name": "Tatooine",
+    "climate": "arid"
+  },
+  {
+    "name": "Yavin IV",
+    "climate": "temperate, tropical"
+  },
+  {
+    "name": "Hoth",
+    "climate": "frozen"
+  },
+  {
+    "name": "Dagobah",
+    "climate": "murky"
+  },
+  {
+    "name": "Bespin",
+    "climate": "temperate"
+  },
+  {
+    "name": "Endor",
+    "climate": "temperate"
+  },
+  {
+    "name": "Naboo",
+    "climate": "temperate"
+  },
+  {
+    "name": "Coruscant",
+    "climate": "temperate"
+  },
+  {
+    "name": "Kamino",
+    "climate": "temperate"
+  },
+  {
+    "name": "Geonosis",
+    "climate": "temperate, arid"
+  },
+  {
+    "name": "Utapau",
+    "climate": "temperate, arid, windy"
+  },
+  {
+    "name": "Mustafar",
+    "climate": "hot"
+  },
+  {
+    "name": "Kashyyyk",
+    "climate": "tropical"
+  },
+  {
+    "name": "Polis Massa",
+    "climate": "artificial temperate "
+  },
+  {
+    "name": "Mygeeto",
+    "climate": "frigid"
+  },
+  {
+    "name": "Felucia",
+    "climate": "hot, humid"
+  },
+  {
+    "name": "Neimoidia",
+    "climate": "temperate, moist"
+  },
+  {
+    "name": "Saleucami",
+    "climate": "hot"
+  },
+  {
+    "name": "Stewjon",
+    "climate": "temperate"
+  },
+  {
+    "name": "Eriadu",
+    "climate": "polluted"
+  }
+]
